@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","names":[],"sources":["components/turn-label-value/index.ts"],"sourcesContent":["import './label-value';\n"],"mappings":"AAAA,OAAO,eAAe"}
